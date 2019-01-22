@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "samsung",
+      "upvote": 10,
+      "downvote": 8,
+      "description": "handy tool kit ofr creative people"
+    },
+    {
+      "id": 5,
+      "name": "nokia",
+      "upvote": 60,
+      "downvote": 10,
+      "description": "Modern ancestor of devices"
+    },
+    {
+      "name": "b",
+      "upvote": "2",
+      "downvote": "-2",
+      "description": "g",
+      "id": 6
+    },
+    {
+      "name": "s",
+      "upvote": "1",
+      "downvote": "-1",
+      "description": "f",
+      "id": 7
+    },
+    {
+      "name": "r",
+      "upvote": "1",
+      "downvote": "-1",
+      "description": "n",
+      "id": 8
+    },
+    {
+      "name": "df",
+      "upvote": "1",
+      "downvote": "-1",
+      "description": "gfg",
+      "id": 9
+    },
+    {
+      "name": "hjg",
+      "upvote": "1",
+      "downvote": "-1",
+      "description": "j",
+      "id": 10
+    },
+    {
+      "name": "fg",
+      "upvote": "1",
+      "downvote": "1",
+      "description": "hh",
+      "id": 11
+    },
+    {
+      "name": "sd",
+      "upvote": "2",
+      "downvote": "2",
+      "description": "ds",
+      "id": 12
+    },
+    {
+      "name": "jklj",
+      "upvote": "2",
+      "downvote": "4",
+      "description": "lkkljklj",
+      "id": 13
+    },
+    {
+      "name": "banny",
+      "upvote": "44",
+      "downvote": "54",
+      "description": "chowdart",
+      "id": 14
+    }
+  ]
+}
